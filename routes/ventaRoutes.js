@@ -13,6 +13,6 @@ router.get('/prueba', prueba);
 
 //Rutas Gestión Ventas
 router.post('/create',createVentas);
-router.get('/get:id',createVenta);
+router.get('/get:id',getVenta);
 
 export default router;

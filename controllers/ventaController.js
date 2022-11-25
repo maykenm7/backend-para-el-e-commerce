@@ -1,4 +1,4 @@
-import Venta from "../models/Venta";
+import Venta from "../models/Venta.js";
 
 const prueba = (req, res) => {
    res.send({
